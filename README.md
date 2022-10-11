@@ -14,4 +14,4 @@ The main aim of our project was to find out customers that would show higher int
 3. But, taking into account the main objective of all the companies, which is the profit, we end-up selecting the Logistic Regression after applying under-sampling, which offers higher net profit (Net Profit: 1.061.000)
 
 
-The dataset was obtained through Kaggle (https://www.kaggle.com/code/ankitabanerji/credit-card-lead-prediction-eda/data?select=train.csv) and the analysis was made using the KNIME Software
+The dataset was obtained through Kaggle (https://www.kaggle.com/code/ankitabanerji/credit-card-lead-prediction-eda/data?select=train.csv) and the analysis was made using the KNIME Software.
